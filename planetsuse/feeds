@@ -2028,3 +2028,9 @@ feed 30m https://opensuseopen.wordpress.com/feed/
     define_lang pt
     define_connect caffilhobr
     define_member 1
+
+feed 30m https://www.edivaldobrito.com.br/category/opensuse/feed/
+    define_name Edivaldo Bezerra Brito
+    define_lang pt
+    define_connect edivaldobrito
+    define_member 1
